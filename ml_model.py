@@ -6,9 +6,9 @@ def model1():
     print("Adding code for model 1")
 
 def model2():
-    print("Adding code for model 2")
+    print("Adding code for model 2. This is working best. changed to create conflict.")
 
 def model3():
     print("Adding code for model 3")
 
-print("Model 2 is performing best")
+print("Model 2 is performing best. changing to create conlict.")
